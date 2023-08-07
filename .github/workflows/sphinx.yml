@@ -4,7 +4,7 @@ on: push
 
 jobs:
   build:
-    runs-on: nvcr.io/nvidia/pytorch:23.07-py3
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
     - name: Build HTML
