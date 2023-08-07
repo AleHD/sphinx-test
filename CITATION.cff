@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: epfLLM Megatron-LM
+year: 2023
+authors:
+    - family-names: Hernández Cano
+      given-names: Alejandro
+    - family-names: Pagliardini
+      given-names: Matteo
+    - family-names: Matoba
+      given-names: Kyle
+    - family-names: Mohtashami
+      given-names: Amirkeivan
+    - family-names: Simin Fan
+      given-names: Olivia
+    - family-names: Marmet
+      given-names: Axel
+    - family-names: Bayazit
+      given-names: Deniz
+    - family-names: Krawczuk
+      given-names: Igor
+    - family-names: Chen
+      given-names: Zeming
+    - family-names: Salvi
+      given-names: Francesco
+    - family-names: Bosselut
+      given-names: Antoine
+    - family-names: Jaggi
+      given-names: Martin
