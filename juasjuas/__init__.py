@@ -1,3 +1,3 @@
 """Juas juas module"""
 
-import jeje
+from . import jeje
